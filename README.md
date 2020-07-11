@@ -1,5 +1,6 @@
 ### Howdy 👋
 
+- 💬 A technology headed hipster ever burning for a connection to the futuristic technology of his day.
 - 💳 My nickname: Anders Håkansson
 - 🔊 Pronunciation: "Naht Ta Ha-ker"
 - 📫 How to reach me: andy?hawkins.app
