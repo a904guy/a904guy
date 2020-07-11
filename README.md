@@ -1,4 +1,9 @@
-### Hi there 👋
+### Howdy 👋
+
+- 💳 My nickname: Anders Håkansson
+- 🔊 Pronunciation: "Naht Ta Ha-ker"
+- 📫 How to reach me: andy?hawkins.app
+- ⚡ Fun fact: Samsung tests phone durability with a butt-shaped robot
 
 <!--
 **a904guy/a904guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
