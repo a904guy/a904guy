@@ -1,4 +1,4 @@
-### Howdy 👋
+<img src="https://placehold.it/854x50/009955/fff?text=Andy+From+Hawkins.Tech+Inc"/>
 
 - 💬 A technology headed hipster ever burning for a connection to the futuristic technology of his day.
 - 💳 My nickname: Anders Håkansson
