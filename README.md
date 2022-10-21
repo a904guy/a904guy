@@ -1,6 +1,7 @@
-<!-- <img src="https://placehold.it/854x50/009955/fff?text=Andy+From+Hawkins.Tech+Inc"/> -->
+![Header Image](https://user-images.githubusercontent.com/404081/197235510-c5a3d29d-24dc-4c57-82d1-8a17043a6407.png)
 
-- 💬 A technology headed hipster ever burning for a connection to the futuristic technology of his day.
+
+
 - 💳 My nickname: Anders Håkansson
 - 🔊 Pronunciation: "Naht Ta Ha-ker"
 - 📫 How to reach me: andy?hawkins.app
