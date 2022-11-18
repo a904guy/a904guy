@@ -7,7 +7,7 @@
 - 📫 How to reach me: andy?hawkins.app
 - ⚡ Fun fact: Samsung tests phone durability with a butt-shaped robot
 
-![Score Card](https://github-readme-stats.vercel.app/api?username=a904guy&show_icons=true&theme=dark&hide_title=true&count_private=true&border_color=4CFF01&text_color=2CCE00&icon_color=4CFF01)
+![Score Card](https://github-readme-stats.vercel.app/api?username=a904guy&show_icons=true&theme=dark&hide_title=true&count_private=true&border_color=4CFF01&text_color=2CCE00&icon_color=4CFF01&bg_color=102913)
 
 <!--
 **a904guy/a904guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
