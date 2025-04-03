@@ -5,7 +5,7 @@
 - 💳 My nickname: Anders Håkansson
 - 🔊 Pronunciation: "Naht Ta Ha-ker"
 - 📫 How to reach me: andy?hawkins.app
-- ⚡ Fun fact: Samsung tests phone durability with a butt-shaped robot
+- ⚡ Pondering: What if google doesn't know the answer?
 <!--
 ![Score Card](https://github-readme-stats.vercel.app/api?username=a904guy&show_icons=true&theme=dark&hide_title=true&count_private=true&border_color=4CFF01&text_color=2CCE00&icon_color=4CFF01&bg_color=102913)
 -->
