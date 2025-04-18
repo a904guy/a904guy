@@ -1,11 +1,5 @@
-![Header Image](https://user-images.githubusercontent.com/404081/197235510-c5a3d29d-24dc-4c57-82d1-8a17043a6407.png)
+![Green and Black Modern Futuristic Technology Presentation](https://github.com/user-attachments/assets/f232f813-fd8f-4e42-9c63-e66bf8bd0ac2)
 
-every spell now ends in a semicolon.
-
-- 💳 My nickname: Anders Håkansson
-- 🔊 Pronunciation: "Naht Ta Ha-ker"
-- 📫 How to reach me: andy?hawkins.app
-- ⚡ Pondering: What if google doesn't know the answer?
 <!--
 ![Score Card](https://github-readme-stats.vercel.app/api?username=a904guy&show_icons=true&theme=dark&hide_title=true&count_private=true&border_color=4CFF01&text_color=2CCE00&icon_color=4CFF01&bg_color=102913)
 -->
