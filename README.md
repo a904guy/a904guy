@@ -1,6 +1,6 @@
 ![Header Image](https://user-images.githubusercontent.com/404081/197235510-c5a3d29d-24dc-4c57-82d1-8a17043a6407.png)
 
-
+every spell now ends in a semicolon.
 
 - 💳 My nickname: Anders Håkansson
 - 🔊 Pronunciation: "Naht Ta Ha-ker"
